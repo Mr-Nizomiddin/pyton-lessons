@@ -1,2 +1,2 @@
 # pyton-lessons
-for learning
+it it just for learning
